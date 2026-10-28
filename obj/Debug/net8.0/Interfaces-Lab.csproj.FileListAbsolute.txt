@@ -1,0 +1,14 @@
+/Users/Carolina/LEXICON/Interfaces-Lab./bin/Debug/net8.0/Interfaces-Lab
+/Users/Carolina/LEXICON/Interfaces-Lab./bin/Debug/net8.0/Interfaces-Lab.deps.json
+/Users/Carolina/LEXICON/Interfaces-Lab./bin/Debug/net8.0/Interfaces-Lab.runtimeconfig.json
+/Users/Carolina/LEXICON/Interfaces-Lab./bin/Debug/net8.0/Interfaces-Lab.dll
+/Users/Carolina/LEXICON/Interfaces-Lab./bin/Debug/net8.0/Interfaces-Lab.pdb
+/Users/Carolina/LEXICON/Interfaces-Lab./obj/Debug/net8.0/Interfaces-Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Carolina/LEXICON/Interfaces-Lab./obj/Debug/net8.0/Interfaces-Lab.AssemblyInfoInputs.cache
+/Users/Carolina/LEXICON/Interfaces-Lab./obj/Debug/net8.0/Interfaces-Lab.AssemblyInfo.cs
+/Users/Carolina/LEXICON/Interfaces-Lab./obj/Debug/net8.0/Interfaces-Lab.csproj.CoreCompileInputs.cache
+/Users/Carolina/LEXICON/Interfaces-Lab./obj/Debug/net8.0/Interfaces-Lab.dll
+/Users/Carolina/LEXICON/Interfaces-Lab./obj/Debug/net8.0/refint/Interfaces-Lab.dll
+/Users/Carolina/LEXICON/Interfaces-Lab./obj/Debug/net8.0/Interfaces-Lab.pdb
+/Users/Carolina/LEXICON/Interfaces-Lab./obj/Debug/net8.0/Interfaces-Lab.genruntimeconfig.cache
+/Users/Carolina/LEXICON/Interfaces-Lab./obj/Debug/net8.0/ref/Interfaces-Lab.dll
